@@ -114,4 +114,4 @@ def stop_scheduler():
         scheduler.shutdown()
         print("⏹️ Планувальник зупинено")
     except:
-        passcd 
+        pass
